@@ -1,0 +1,8 @@
+{
+  "name": "packages-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "faelfer",
+  "license": "MIT",
+  "private": false
+}
