@@ -3,8 +3,15 @@
   "description": "Introduction to the Managing Packages with npm Challenges",
   "author": "faelfer",
   "version": "1.0.1",
-  "keywords": ["npm", "yarn", "freecodecamp"],
+  "keywords": [
+    "npm",
+    "yarn",
+    "freecodecamp"
+  ],
   "main": "index.js",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "moment": "^2.14.0"
+  }
 }
