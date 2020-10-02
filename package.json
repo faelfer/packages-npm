@@ -1,8 +1,9 @@
 {
   "name": "packages-npm",
+  "description": "Introduction to the Managing Packages with npm Challenges",
+  "author": "faelfer",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "faelfer",
   "license": "MIT",
   "private": false
 }
