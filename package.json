@@ -3,6 +3,7 @@
   "description": "Introduction to the Managing Packages with npm Challenges",
   "author": "faelfer",
   "version": "1.0.0",
+  "keywords": ["npm", "yarn", "freecodecamp"],
   "main": "index.js",
   "license": "MIT",
   "private": false
